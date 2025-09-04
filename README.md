@@ -40,6 +40,11 @@ TalentScout is an AI-powered Hiring Assistant chatbot designed to streamline the
 
  ------
 
+ ### **Demo of TalentScout Hiring Assistant -**
+
+
+ 
+
 ### **Future Work**
 
 * Enhanced Multilingual Support
